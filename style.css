@@ -1,0 +1,76 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+}
+/* .Top-Button{
+    display: flex;
+    width: 100%;
+    padding-left: 12%
+}
+#home{
+    padding-left: 10%;
+}
+#about{
+    padding-left: 10%;
+}
+#hire{
+    padding-left: 10%;
+}
+#support{
+    p
+} */
+.Main-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.Half-part{
+    width: 50%;
+    padding: 3%;
+}
+.Half-part img {
+    width: 100%;
+}
+.Text-color{
+    color: blue;
+}
+.link{
+    text-decoration: none;
+    color: darkblue;
+}
+.Link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, lightblue);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 10px;
+}
+
+.Third-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.Third-item{
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+#Full{
+    border-left: 7px solid rgb(214, 16, 16);
+}
+
+#Mern{
+    border-left: 7px solid rgb(11, 231, 30);
+}
+
+#Web{
+    border-left: 7px solid rgb(20, 60, 241);
+}
+
+footer p {
+    text-align: center;
+}
