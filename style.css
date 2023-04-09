@@ -1,27 +1,18 @@
 body{
 
     font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient( rgb(220, 247, 156), white);
+    margin: auto;
 }
 /* .Top-Button{
     display: flex;
-    width: 100%;
-    padding-left: 12%
-}
-#home{
-    padding-left: 10%;
-}
-#about{
-    padding-left: 10%;
-}
-#hire{
-    padding-left: 10%;
-}
-#support{
-    p
+    padding-left: 12%;
+    padding-top: 10px;
+
 } */
 .Main-part{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .Half-part{
     width: 50%;
@@ -60,17 +51,21 @@ body{
 }
 
 #Full{
-    border-left: 7px solid rgb(214, 16, 16);
+    border-left: 7px solid rgb(255, 0, 0);
 }
 
 #Mern{
-    border-left: 7px solid rgb(11, 231, 30);
+    border-left: 7px solid rgb(12, 235, 12);
 }
 
 #Web{
-    border-left: 7px solid rgb(20, 60, 241);
+    border-left: 7px solid rgb(41, 79, 248);
 }
 
 footer p {
     text-align: center;
+}
+.developer{
+    text-decoration: none;
+    color: blue;
 }
